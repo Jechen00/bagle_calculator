@@ -2,4 +2,4 @@ numpy==1.26.4
 streamlit==1.34.0
 streamlit_extras==0.4.2
 # https://github.com/MovingUniverseLab/BAGLE_Microlensing/archive/main.zip
-git+https://github.com/MovingUniverseLab/BAGLE_Microlensing.git@main
+git+https://github.com/ninjab3381/BAGLE_Microlensing.git
